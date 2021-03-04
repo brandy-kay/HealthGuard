@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020986313749",
+    "project_id": "healthguard-1234",
+    "storage_bucket": "healthguard-1234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020986313749:android:0ab11712b10c6a5208921c",
+        "android_client_info": {
+          "package_name": "adhanjas.com.example.healthguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020986313749-5j6qc36jse6j6f1v1hf6cq4p628gqgib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhP52VP-E25crJs0Y6piIl60oYyT7HODU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020986313749-5j6qc36jse6j6f1v1hf6cq4p628gqgib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
